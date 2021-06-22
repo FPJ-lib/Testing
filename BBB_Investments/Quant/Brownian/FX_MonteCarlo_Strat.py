@@ -5,11 +5,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from random import *
 
-number_scenarios = 1 + 10
-number_trades = 20
+number_scenarios = 1 + 20
+number_trades = 10
 
 win_ratio = 0.32
-risk_reward = 2.8
+risk_reward = 2.5
 risk_per_trade = .08
 
 start = 300
@@ -49,7 +49,7 @@ print('Min:\t   ', df.min().min())
 
 
 #SAVE DF
-df = df.T
+#df = df.T
 df.to_csv('C:/Users/filip/OneDrive/08 - Coding/Research/BBB_Investments/Quant/Brownian/MonteCarlo_FX.csv', index=False)
 
 
