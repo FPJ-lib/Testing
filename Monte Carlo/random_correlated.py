@@ -1,5 +1,6 @@
 import numpy as m
 import pandas as pd 
+import matplotlib.pyplot as plt 
 
 # INPUTS
 number_obs = 500
@@ -18,9 +19,19 @@ Y = U*X
 #And to test that this works:
 Y = pd.DataFrame(Y)
 Y = Y.T
+Y.columns=['1','2','3','4','5']
 C = pd.DataFrame(C)
 
 print('\nReal Correlation:\n', C)
 print('\nObserved Correlation:\n', round(Y.corr(),2))
+
+
+
+'''
+plt.plot(Y.cumsum())
+plt.legend(Y.columns)
+plt.show()
+'''
+
 
 print('\n\n')
