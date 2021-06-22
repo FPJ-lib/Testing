@@ -5,7 +5,7 @@ import pandas as pd
 
 print()
 print()
-n_obs = 10000
+n_obs = 20
 means = [0.05, 0.08, 0.12]
 sds = [ 0.15, 0.22, 0.3] # standard deviations 
 
@@ -16,7 +16,7 @@ observations = np.vstack([np.random.normal(loc=mean, scale=sd, size=n_obs)
 df = pd.DataFrame(observations)
 df = df.T
 print(df)
-print('\n\n')
+print()
 
 
 cor_matrix = np.array([[1.0, 0.8, -0.1],
@@ -29,6 +29,8 @@ print(cor_matrix)
 print()
 print()
 print(np.corrcoef(L.dot(observations))) 
+
+
 
 
 
