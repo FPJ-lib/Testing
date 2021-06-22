@@ -5,14 +5,18 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from random import *
 
-number_scenarios = 1 + 10000
-number_trades = 15
+number_scenarios = 1 + 10
+number_trades = 20
 
-win_ratio = 0.4
-risk_reward = 4
+win_ratio = 0.32
+risk_reward = 2.8
 risk_per_trade = .08
 
 start = 300
+
+print('\nBreak-even Win-ratio:\t', round(100/(risk_reward+1),2))
+print('Win-Ratio:\t\t', round(win_ratio*100,2))
+
 
 
 # Create an empty list
@@ -37,15 +41,16 @@ print('\n\n')
 
 #Data Frame
 df = pd.DataFrame(accounts)
-
-print(df)
+print(df.T)
 
 print('\nMean:\t  ', round(df[number_trades].mean(),2))
 print('Max:\t', df.max().max())
 print('Min:\t   ', df.min().min())
 
 
- 
+#SAVE DF
+df = df.T
+df.to_csv('C:/Users/filip/OneDrive/08 - Coding/Research/BBB_Investments/Quant/Brownian/MonteCarlo_FX.csv', index=False)
 
 
 print()

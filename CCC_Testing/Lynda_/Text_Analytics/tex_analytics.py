@@ -30,18 +30,21 @@ def count_words(path):
 
         #Save text to CSV
         df_ = pd.DataFrame(all_words, columns=['text'])
-        df_.to_csv('/Users/filipepessoajorge/OneDrive/X002 - Python_Developing/GitHub/Economic_data/Economic_data/Lynda_/Text_Analytics/all_words.csv', index=False)
+        df_.to_csv(path_upload, index=False)
         
         #Create Output
         words = pd.DataFrame(word_counts.most_common(), columns=['Words', 'Freq'])
         return words
 
-df = count_words('/Users/filipepessoajorge/OneDrive/X002 - Python_Developing/GitHub/Economic_data/Economic_data/Lynda_/Twitter/Jobs_ads.txt')
-df.to_csv('/Users/filipepessoajorge/OneDrive/X002 - Python_Developing/GitHub/Economic_data/Economic_data/Lynda_/Text_Analytics/word_list.csv', index=False)
+path_upload='C:/Users/filip/OneDrive/08 - Coding/Research/CCC_Testing/Lynda_/Text_Analytics/all_words.csv'
+path_save = 'C:/Users/filip/OneDrive/08 - Coding/Research/CCC_Testing/Lynda_/Text_Analytics/word_list.csv'
+
+
+df = count_words(path_upload)
+df.to_csv(path_save, index=False)
 print(df)
 
 print('\nOver')
-'''
+
 print('\nTop20: ')
-print(df[ df['Freq'] >= 6 ])
-'''
+print(df[ df['Freq'] >= 8 ])

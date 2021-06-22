@@ -9,7 +9,7 @@ register_matplotlib_converters()
 quandl.ApiConfig.api_key = 'QRisxrNExze-5RCysH3-'
 
 
-df = quandl.get(["FRED/UNRATE", "FRED/LNS14000003", "FRED/LNS14000006", "FRED/LNS14000009", "FRED/LNU04032183"],trim_start="2000-1-1", trim_end="2020-05-01", collapse = 'monthly')
+df = quandl.get(["FRED/UNRATE", "FRED/LNS14000003", "FRED/LNS14000006", "FRED/LNS14000009", "FRED/LNU04032183"],trim_start="2000-1-1", trim_end="2022-05-01", collapse = 'monthly')
 df.columns = ['Unemployment', 'Unemp_White', 'Unemp_Black', 'Unemp_Hispanic','Unemp_Asian']
 print(df)
 
