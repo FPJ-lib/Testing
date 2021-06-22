@@ -1,0 +1,112 @@
+
+
+General:
+
+#Keep Everything in the Table, including prices; Returns; Stats; Signals.
+
+
+
+
+-Graphing:
+-Stats about Correlations and Lags
+
+
+
+-Strategy to employ and returns
+    *entry;
+        when ratio is #-##
+
+    *exit.
+        when it crosses #-##
+    
+    *Profit n Loss
+
+
+Risks of this strategy:
+    
+    * Loss in correlation;
+    * Specific risk to one of the firms [internal scandals]
+    
+    * Fees
+
+
+After Strategy is built:
+    *Search for Pairs;
+        * Same company diferent stock class/ seniority;
+
+
+
+________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
+
+
+*********************************************
+****  Plot Many Graphs at The Same Time  **** 
+*********************************************
+
+[#Rows, #Column]
+
+[1,1]
+Price of one Stock;
+[2,1]
+Price of the other Stock;
+
+[1,2]
+Plotting Ratio;
+[2,2]
+Plotting Correlation;
+
+
+
+
+________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
+
+* Pair Trading: 
+
+
+Ideally:
+Sell when Relatively Overpriced to another Stock;
+Stock, which is is a challenging peer in the same industry or business model.
+
+
+RATIO:
+    * Stable:
+        Shit. indiferent
+    * Increasing:
+        Why? Is one taking more risk than the other? 
+    * Descreasing:
+        Same as above.
+    * Sideways:
+        Perfect for pair trading. Support and resistence Identify Long and Short.
+
+
+________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
+
+Examples to Check:
+#https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9163986/the-technicians-playbook-11-sector-pair-trades
+
+
+Galp : Repsol
+    * Checking Galp recent investment in Renewables
+
+Coca-cola : Pepsi
+    * More branding peer than anything
+    * Pepsi is strong on the Snacks industry
+    * Coca-cola is more on the non-alcoholic drinks
+
+Disney : Netflix ?
+    * Interesting Comparison by any measure.
+    * Both create and distribute entertainment
+    * Weight of Parks in the Disney Accounts
+
+Walmart : Costco ?
+
+Heineken : InBev ? 
+
+AT&T Inc : Verizon Communications Inc.
+
+
+________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________

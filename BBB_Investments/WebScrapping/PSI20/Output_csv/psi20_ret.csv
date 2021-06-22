@@ -1,0 +1,19 @@
+,ticker,company,sector,ret,std,IS,Total_Ret
+4,EDPR.LS,EDP Renováveis,Utilities,46.5,27.38,1.7,130.76
+5,EDP.LS,Energias de Portugal,Utilities,37.4,30.21,1.24,90.05
+11,NBA.LS,Novabase,Technology,29.85,43.29,0.69,50.4
+13,RENE.LS,Redes Energéticas Nacionais,Utilities,10.71,19.35,0.55,18.86
+2,COR.LS,Corticeira Amorim,Food & Beverage,6.68,30.11,0.22,4.29
+8,JMT.LS,Jerónimo Martins,Retail,2.37,31.41,0.08,-4.9
+0,ALTR.LS,Altri,Industrial Goods & Services,6.27,43.56,0.14,-6.1
+3,CTT.LS,CTT Correios de Portugal,Industrial Goods & Services,-0.82,38.55,-0.02,-14.9
+16,SONC.LS,Sonae Capital,Financial Services,0.35,44.78,0.01,-16.22
+10,NOS.LS,NOS,Media,-11.64,29.51,-0.39,-26.87
+6,GALP.LS,Galp Energia,Oil & Gas,-16.98,36.58,-0.46,-37.19
+15,SON.LS,Sonae,Retail,-22.58,32.27,-0.7,-42.0
+17,NVG.LS,The Navigator Company,Basic Resources,-21.99,36.15,-0.61,-42.83
+14,SEM.LS,Semapa,Basic Resources,-33.48,33.99,-0.98,-53.67
+7,IBS.LS,Ibersol,Travel & Leisure,-29.38,50.01,-0.59,-55.59
+12,PHR.LS,Pharol,Telecommunications,-33.49,51.85,-0.65,-59.92
+9,EGL.LS,Mota-Engil,Construction & Materials,-39.22,56.32,-0.7,-65.72
+1,BCP.LS,Banco Comercial Português,Banks,-52.19,42.48,-1.23,-69.92

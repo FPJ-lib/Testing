@@ -22,8 +22,12 @@ for i in range(0,len(history_prices)):
         pass
     else:
         relative_prices.append((history_prices[i]-history_prices[i-1])/(history_prices[i-1])) 
+
+print()
+print(relative_prices)
+
 std_prices = stat.stdev(relative_prices)
-print(std_prices)
+print('\nStd Dev:\t', round(std_prices*100,2))
 
 
 
@@ -40,12 +44,15 @@ def randomWalk(stdev,pastPrices):
     return([days,prices])
 # -- conduct calculation, use function
 prices = randomWalk(std_prices,history_prices)
+print('\nPrice:\n', prices)
+
+
 # -- visualize random walk in a line plot
 plt.plot(prices[0],prices[1])
 plt.title("random price walk")
 plt.xlabel("day")
 plt.ylabel("stock price")
-plt.show()
+#plt.show()
 
 
 
@@ -56,7 +63,7 @@ for i in range(0,30):
 plt.title("monte-carlo simulation of stock price development")
 plt.xlabel("day")
 plt.ylabel("stock price")
-plt.show()
+#plt.show()
 
 
 

@@ -1,0 +1,28 @@
+Account,Date -0,Date -1,Date -2,Date -3,Date -4
+Revenue,"28,286.00","26,145.00","25,336.00","23,310.53","20,900.44"
+Total Revenue,"28,286.00","26,145.00","25,336.00","23,310.53","20,900.44"
+"Cost of Revenue, Total","12,192.00","11,329.00","11,076.00","10,031.98","8,811.14"
+Gross Profit,"16,094.00","14,816.00","14,260.00","13,278.55","12,089.30"
+"Selling/General/Admin. Expenses, Total","7,310.00","8,514.00","8,077.00","5,863.77","5,422.68"
+Depreciation/Amortization,"2,824.00","1,206.00","1,108.00",967.74,976.25
+Unusual Expense (Income),292.00,(109.00),(257.00),70.34,38.02
+"Other Operating Expenses, Total",896.00,848.00,"1,017.00","2,355.72","1,974.67"
+Total Operating Expense,"23,514.00","21,788.00","21,021.00","19,289.80","17,223.00"
+Operating Income,"4,772.00","4,357.00","4,315.00","4,020.74","3,677.44"
+"Interest Inc.(Exp.),Net-Non-Op., Total",(91.00),71.00,37.00,57.59,65.68
+Net Income Before Taxes,"4,681.00","4,428.00","4,351.00","4,078.32","3,743.12"
+Provision for Income Taxes,"1,034.00",980.00,979.00,917.21,860.92
+Net Income After Taxes,"3,647.00","3,448.00","3,372.00","3,161.11","2,882.20"
+Minority Interest,(8.00),(4.00),(5.00),(4.15),(7.62)
+Net Income Before Extra. Items,"3,639.00","3,444.00","3,367.00","3,156.96","2,874.58"
+Net Income,"3,639.00","3,444.00","3,367.00","3,156.96","2,874.58"
+Income Available to Com Excl ExtraOrd,"3,639.00","3,444.00","3,368.00","3,156.96","2,874.58"
+Income Available to Com Incl ExtraOrd,"3,639.00","3,444.00","3,368.00","3,156.96","2,874.58"
+Diluted Net Income,"3,639.00","3,444.00","3,368.00","3,156.96","2,874.58"
+Diluted Weighted Average Shares,"3,114.38","3,113.70","3,113.22","3,113.15","3,113.15"
+Diluted EPS Excluding ExtraOrd Items,1.17,1.11,1.08,1.01,0.92
+Diluted Normalized EPS,1.24,1.08,1.02,1.03,0.93
+DPS - Common Stock Primary Issue,0.99,0.75,0.68,0.60,0.52
+"Other, Net",(1.00),(0.00),0.00,--,--
+Total Adjustments to Net Income,1.00,--,--,--,--
+"Interest Exp.(Inc.),Net-Operating, Total",0.25,0.25,--,--,--

@@ -1,0 +1,37 @@
+Order:
+
+1) Get CSV from Degiro;
+    *Transactions.CSV
+    *Portfolio -> Necessary?? use it from Transations?
+    *Run Transactions.py
+
+2) Download Prices - Portfolio file;
+    *Mannually add Tickers from Yahoo - Same Order as Portfolio: **Change it**
+    *Get Last Prices;
+    *Run Portfolio.py -- Maybe make it run Transactions.py first?
+
+3) With Weights in each Stock:
+    *Compute returns of Portfolio from last 2 years;
+    *Ret & Std
+
+
+4) Add if possible:
+    *Target Price:
+    *Use Ratios and Peers
+
+5) With Weights in each Stock:
+    *Compute returns of Portfolio from last 2 years;
+    *Ret & Std
+
+
+#) Missing:
+    *Accounts file -- Account history;
+    *Costs of Options Markets - Other costs;
+    *Divindends by Firm:
+
+
+
+* Still Left To Do *
+
+Information:
+Target; (For Investment Analaysis)

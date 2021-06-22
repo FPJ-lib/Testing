@@ -1,0 +1,99 @@
+
+
+
+Next Session:
+
+Do Same in Wiki for PSI20
+--Get PSI20 - Tickers + '.LS'
+--Download from Yahoo.Finance
+--Returns -- Best returns; Correlations
+
+Set up Reuters Data Download in a Different File, As a function.
+
+Use that file.function()
+To download each company;
+
+
+#      Investment Priciples:
+WEBSCRAPPING:
+Quality:  #Past, #Health
+-- Stable / increasing Income
+-- Increasing Margin
+
+Prospects: #Future, #Growth
+-- New Investments
+-- New areas / growth opportunities
+    * Measure by P/E ?
+    * Investment/Assets ?
+
+Ethics: #Current, #Moral Values
+-- Not harful for consumers
+    * Tabacco
+    * Alcohol? -- Doubful
+-- Not harful for 3rd parties
+    * Guns
+-- Ecological / Sustainability
+    * Sustainable Business
+    * Social impact:
+        * Donation
+        * Invest in Employees
+
+
+IDEALLY:
+Next:
+Get P/E - Trailing
+Find Data to webScrap
+
+USE DATA FROM HFs
+
+
+#
+Analyse by Sector:
+
+Go find it in YAHOO (by sector)
+-- Download prices:
+    * Best return
+    * Best IS
+
+--> Best performing Industries:
+- Best Sharp Ratio:
+    *What if volatility is in positive returns??
+    *Most positive Skew:
+
+
+- Get from Reuters Fundamentals:
+    * Assets and Liabilities development:
+        * Interest / Liabilities
+    * Income Statement:
+        * Income Stability;
+        * Margin;
+        * Investment;
+        * Earnings Volatility
+    * Cash Flow:
+        * Investment CF
+        * Cash from Operations;
+        * Debt development
+
+
+*
+NEXT POJECT:
+Automatic Analysis of Financial Statements
+
+1) Get Statements
+2) by Assets / Revenues
+    * Liabilities[Debt]/Assets ;
+    * Margin;
+    * Revenues Stable/Increasing #Optional
+    * Earnings 
+        -Stable
+        -Increasing
+        -Increased
+3) Cash Flow
+    * Investments - Increased
+    * Operations - Positive / Increasing
+
+
+1st:
+Build Large DataSet:
+
+*

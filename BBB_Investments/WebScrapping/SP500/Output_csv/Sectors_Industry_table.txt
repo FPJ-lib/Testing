@@ -1,0 +1,168 @@
+Sector: Communication Services
+Advertising
+Alternative Carriers
+Broadcasting
+Cable & Satellite
+Integrated Telecommunication Services
+Interactive Home Entertainment
+Interactive Media & Services
+Movies & Entertainment
+Publishing
+Wireless Telecommunication Services
+
+
+
+Sector: Consumer Discretionary
+Apparel Retail
+Apparel, Accessories & Luxury Goods
+Auto Parts & Equipment
+Automobile Manufacturers
+Automotive Retail
+Casinos & Gaming
+Computer & Electronics Retail
+Consumer Electronics
+Distributors
+General Merchandise Stores
+Home Furnishings
+Home Improvement Retail
+Homebuilding
+Hotels, Resorts & Cruise Lines
+Household Appliances
+Housewares & Specialties
+Internet & Direct Marketing Retail
+Leisure Products
+Restaurants
+Specialty Stores
+
+
+
+Sector: Consumer Staples
+Agricultural Products
+Brewers
+Distillers & Vintners
+Drug Retail
+Food Distributors
+Food Retail
+Household Products
+Hypermarkets & Super Centers
+Packaged Foods & Meats
+Personal Products
+Soft Drinks
+Tobacco
+
+
+
+Sector: Energy
+Integrated Oil & Gas
+Oil & Gas Equipment & Services
+Oil & Gas Exploration & Production
+Oil & Gas Refining & Marketing
+Oil & Gas Storage & Transportation
+
+
+
+Sector: Financials
+Asset Management & Custody Banks
+Consumer Finance
+Diversified Banks
+Financial Exchanges & Data
+Insurance Brokers
+Investment Banking & Brokerage
+Life & Health Insurance
+Multi-Sector Holdings
+Multi-line Insurance
+Property & Casualty Insurance
+Regional Banks
+Reinsurance
+Thrifts & Mortgage Finance
+
+
+
+Sector: Health Care
+Biotechnology
+Health Care Distributors
+Health Care Equipment
+Health Care Facilities
+Health Care Services
+Health Care Supplies
+Health Care Technology
+Life Sciences Tools & Services
+Managed Health Care
+Pharmaceuticals
+
+
+
+Sector: Industrials
+Aerospace & Defense
+Agricultural & Farm Machinery
+Air Freight & Logistics
+Airlines
+Building Products
+Construction & Engineering
+Construction Machinery & Heavy Trucks
+Diversified Support Services
+Electrical Components & Equipment
+Environmental & Facilities Services
+Human Resource & Employment Services
+Industrial Conglomerates
+Industrial Machinery
+Railroads
+Research & Consulting Services
+Trading Companies & Distributors
+Trucking
+
+
+
+Sector: Information Technology
+Application Software
+Communications Equipment
+Data Processing & Outsourced Services
+Electronic Components
+Electronic Equipment & Instruments
+Electronic Manufacturing Services
+IT Consulting & Other Services
+Internet Services & Infrastructure
+Semiconductor Equipment
+Semiconductors
+Systems Software
+Technology Distributors
+Technology Hardware, Storage & Peripherals
+
+
+
+Sector: Materials
+Commodity Chemicals
+Construction Materials
+Copper
+Diversified Chemicals
+Fertilizers & Agricultural Chemicals
+Gold
+Industrial Gases
+Metal & Glass Containers
+Paper Packaging
+Specialty Chemicals
+Steel
+
+
+
+Sector: Real Estate
+Health Care REITs
+Hotel & Resort REITs
+Industrial REITs
+Office REITs
+Real Estate Services
+Residential REITs
+Retail REITs
+Specialized REITs
+
+
+
+Sector: Utilities
+Electric Utilities
+Gas Utilities
+Independent Power Producers & Energy Traders
+Multi-Utilities
+Water Utilities
+
+
+

@@ -1,0 +1,372 @@
+80 , Health Care Equipment , Health Care
+56 , Industrial Machinery , Industrials
+52 , Semiconductors , Information Technology
+52 , Electric Utilities , Utilities
+48 , Packaged Foods & Meats , Consumer Staples
+48 , Application Software , Information Technology
+44 , Oil & Gas Exploration & Production , Energy
+44 , Data Processing & Outsourced Services , Information Technology
+44 , Aerospace & Defense , Industrials
+44 , Regional Banks , Financials
+44 , Multi-Utilities , Utilities
+36 , Specialized REITs , Real Estate
+36 , Pharmaceuticals , Health Care
+36 , Apparel, Accessories & Luxury Goods , Consumer Discretionary
+32 , Property & Casualty Insurance , Financials
+32 , Financial Exchanges & Data , Financials
+32 , Specialty Chemicals , Materials
+32 , Asset Management & Custody Banks , Financials
+32 , Building Products , Industrials
+28 , Technology Hardware, Storage & Peripherals , Information Technology
+28 , Biotechnology , Health Care
+24 , IT Consulting & Other Services , Information Technology
+24 , Life & Health Insurance , Financials
+24 , Diversified Banks , Financials
+24 , Health Care Distributors , Health Care
+24 , Restaurants , Consumer Discretionary
+24 , Specialty Stores , Consumer Discretionary
+24 , Paper Packaging , Materials
+24 , Residential REITs , Real Estate
+24 , Movies & Entertainment , Communication Services
+20 , Internet & Direct Marketing Retail , Consumer Discretionary
+20 , Hotels, Resorts & Cruise Lines , Consumer Discretionary
+20 , Managed Health Care , Health Care
+20 , Airlines , Industrials
+20 , Investment Banking & Brokerage , Financials
+20 , Communications Equipment , Information Technology
+20 , Life Sciences Tools & Services , Health Care
+20 , Retail REITs , Real Estate
+20 , Oil & Gas Equipment & Services , Energy
+16 , Oil & Gas Refining & Marketing , Energy
+16 , Insurance Brokers , Financials
+16 , Office REITs , Real Estate
+16 , Air Freight & Logistics , Industrials
+16 , Consumer Finance , Financials
+16 , Research & Consulting Services , Industrials
+16 , Homebuilding , Consumer Discretionary
+16 , Electrical Components & Equipment , Industrials
+16 , Industrial Conglomerates , Industrials
+16 , Household Products , Consumer Staples
+16 , Health Care Supplies , Health Care
+16 , Railroads , Industrials
+16 , Semiconductor Equipment , Information Technology
+16 , Fertilizers & Agricultural Chemicals , Materials
+16 , Interactive Media & Services , Communication Services
+16 , Apparel Retail , Consumer Discretionary
+12 , Construction Machinery & Heavy Trucks , Industrials
+12 , Health Care Facilities , Health Care
+12 , Health Care Services , Health Care
+12 , Environmental & Facilities Services , Industrials
+12 , Casinos & Gaming , Consumer Discretionary
+12 , Oil & Gas Storage & Transportation , Energy
+12 , Integrated Oil & Gas , Energy
+12 , Soft Drinks , Consumer Staples
+12 , Electronic Equipment & Instruments , Information Technology
+12 , Cable & Satellite , Communication Services
+12 , Internet Services & Infrastructure , Information Technology
+12 , Systems Software , Information Technology
+12 , Multi-line Insurance , Financials
+12 , General Merchandise Stores , Consumer Discretionary
+12 , Health Care REITs , Real Estate
+12 , Interactive Home Entertainment , Communication Services
+8 , Trucking , Industrials
+8 , Independent Power Producers & Energy Traders , Utilities
+8 , Construction Materials , Materials
+8 , Industrial REITs , Real Estate
+8 , Industrial Gases , Materials
+8 , Electronic Manufacturing Services , Information Technology
+8 , Electronic Components , Information Technology
+8 , Advertising , Communication Services
+8 , Diversified Support Services , Industrials
+8 , Auto Parts & Equipment , Consumer Discretionary
+8 , Home Improvement Retail , Consumer Discretionary
+8 , Home Furnishings , Consumer Discretionary
+8 , Distillers & Vintners , Consumer Staples
+8 , Personal Products , Consumer Staples
+8 , Tobacco , Consumer Staples
+8 , Automobile Manufacturers , Consumer Discretionary
+8 , Hypermarkets & Super Centers , Consumer Staples
+8 , Publishing , Communication Services
+8 , Integrated Telecommunication Services , Communication Services
+8 , Broadcasting , Communication Services
+8 , Construction & Engineering , Industrials
+4 , Wireless Telecommunication Services , Communication Services
+4 , Gas Utilities , Utilities
+4 , Household Appliances , Consumer Discretionary
+4 , Real Estate Services , Real Estate
+4 , Automotive Retail , Consumer Discretionary
+4 , Computer & Electronics Retail , Consumer Discretionary
+4 , Hotel & Resort REITs , Real Estate
+4 , Consumer Electronics , Consumer Discretionary
+4 , Steel , Materials
+4 , Distributors , Consumer Discretionary
+4 , Metal & Glass Containers , Materials
+4 , Gold , Materials
+4 , Housewares & Specialties , Consumer Discretionary
+4 , Diversified Chemicals , Materials
+4 , Food Retail , Consumer Staples
+4 , Agricultural & Farm Machinery , Industrials
+4 , Health Care Technology , Health Care
+4 , Alternative Carriers , Communication Services
+4 , Trading Companies & Distributors , Industrials
+4 , Thrifts & Mortgage Finance , Financials
+4 , Reinsurance , Financials
+4 , Multi-Sector Holdings , Financials
+4 , Food Distributors , Consumer Staples
+4 , Copper , Materials
+4 , Drug Retail , Consumer Staples
+4 , Brewers , Consumer Staples
+4 , Agricultural Products , Consumer Staples
+4 , Technology Distributors , Information Technology
+4 , Leisure Products , Consumer Discretionary
+4 , Commodity Chemicals , Materials
+4 , Human Resource & Employment Services , Industrials
+4 , Water Utilities , Utilities
+80 , Health Care Equipment , Health Care
+56 , Industrial Machinery , Industrials
+52 , Semiconductors , Information Technology
+52 , Electric Utilities , Utilities
+48 , Packaged Foods & Meats , Consumer Staples
+48 , Application Software , Information Technology
+44 , Oil & Gas Exploration & Production , Energy
+44 , Data Processing & Outsourced Services , Information Technology
+44 , Aerospace & Defense , Industrials
+44 , Regional Banks , Financials
+44 , Multi-Utilities , Utilities
+36 , Specialized REITs , Real Estate
+36 , Pharmaceuticals , Health Care
+36 , Apparel, Accessories & Luxury Goods , Consumer Discretionary
+32 , Property & Casualty Insurance , Financials
+32 , Financial Exchanges & Data , Financials
+32 , Specialty Chemicals , Materials
+32 , Asset Management & Custody Banks , Financials
+32 , Building Products , Industrials
+28 , Technology Hardware, Storage & Peripherals , Information Technology
+28 , Biotechnology , Health Care
+24 , IT Consulting & Other Services , Information Technology
+24 , Life & Health Insurance , Financials
+24 , Diversified Banks , Financials
+24 , Health Care Distributors , Health Care
+24 , Restaurants , Consumer Discretionary
+24 , Specialty Stores , Consumer Discretionary
+24 , Paper Packaging , Materials
+24 , Residential REITs , Real Estate
+24 , Movies & Entertainment , Communication Services
+20 , Internet & Direct Marketing Retail , Consumer Discretionary
+20 , Hotels, Resorts & Cruise Lines , Consumer Discretionary
+20 , Managed Health Care , Health Care
+20 , Airlines , Industrials
+20 , Investment Banking & Brokerage , Financials
+20 , Communications Equipment , Information Technology
+20 , Life Sciences Tools & Services , Health Care
+20 , Retail REITs , Real Estate
+20 , Oil & Gas Equipment & Services , Energy
+16 , Oil & Gas Refining & Marketing , Energy
+16 , Insurance Brokers , Financials
+16 , Office REITs , Real Estate
+16 , Air Freight & Logistics , Industrials
+16 , Consumer Finance , Financials
+16 , Research & Consulting Services , Industrials
+16 , Homebuilding , Consumer Discretionary
+16 , Electrical Components & Equipment , Industrials
+16 , Industrial Conglomerates , Industrials
+16 , Household Products , Consumer Staples
+16 , Health Care Supplies , Health Care
+16 , Railroads , Industrials
+16 , Semiconductor Equipment , Information Technology
+16 , Fertilizers & Agricultural Chemicals , Materials
+16 , Interactive Media & Services , Communication Services
+16 , Apparel Retail , Consumer Discretionary
+12 , Construction Machinery & Heavy Trucks , Industrials
+12 , Health Care Facilities , Health Care
+12 , Health Care Services , Health Care
+12 , Environmental & Facilities Services , Industrials
+12 , Casinos & Gaming , Consumer Discretionary
+12 , Oil & Gas Storage & Transportation , Energy
+12 , Integrated Oil & Gas , Energy
+12 , Soft Drinks , Consumer Staples
+12 , Electronic Equipment & Instruments , Information Technology
+12 , Cable & Satellite , Communication Services
+12 , Internet Services & Infrastructure , Information Technology
+12 , Systems Software , Information Technology
+12 , Multi-line Insurance , Financials
+12 , General Merchandise Stores , Consumer Discretionary
+12 , Health Care REITs , Real Estate
+12 , Interactive Home Entertainment , Communication Services
+8 , Trucking , Industrials
+8 , Independent Power Producers & Energy Traders , Utilities
+8 , Construction Materials , Materials
+8 , Industrial REITs , Real Estate
+8 , Industrial Gases , Materials
+8 , Electronic Manufacturing Services , Information Technology
+8 , Electronic Components , Information Technology
+8 , Advertising , Communication Services
+8 , Diversified Support Services , Industrials
+8 , Auto Parts & Equipment , Consumer Discretionary
+8 , Home Improvement Retail , Consumer Discretionary
+8 , Home Furnishings , Consumer Discretionary
+8 , Distillers & Vintners , Consumer Staples
+8 , Personal Products , Consumer Staples
+8 , Tobacco , Consumer Staples
+8 , Automobile Manufacturers , Consumer Discretionary
+8 , Hypermarkets & Super Centers , Consumer Staples
+8 , Publishing , Communication Services
+8 , Integrated Telecommunication Services , Communication Services
+8 , Broadcasting , Communication Services
+8 , Construction & Engineering , Industrials
+4 , Wireless Telecommunication Services , Communication Services
+4 , Gas Utilities , Utilities
+4 , Household Appliances , Consumer Discretionary
+4 , Real Estate Services , Real Estate
+4 , Automotive Retail , Consumer Discretionary
+4 , Computer & Electronics Retail , Consumer Discretionary
+4 , Hotel & Resort REITs , Real Estate
+4 , Consumer Electronics , Consumer Discretionary
+4 , Steel , Materials
+4 , Distributors , Consumer Discretionary
+4 , Metal & Glass Containers , Materials
+4 , Gold , Materials
+4 , Housewares & Specialties , Consumer Discretionary
+4 , Diversified Chemicals , Materials
+4 , Food Retail , Consumer Staples
+4 , Agricultural & Farm Machinery , Industrials
+4 , Health Care Technology , Health Care
+4 , Alternative Carriers , Communication Services
+4 , Trading Companies & Distributors , Industrials
+4 , Thrifts & Mortgage Finance , Financials
+4 , Reinsurance , Financials
+4 , Multi-Sector Holdings , Financials
+4 , Food Distributors , Consumer Staples
+4 , Copper , Materials
+4 , Drug Retail , Consumer Staples
+4 , Brewers , Consumer Staples
+4 , Agricultural Products , Consumer Staples
+4 , Technology Distributors , Information Technology
+4 , Leisure Products , Consumer Discretionary
+4 , Commodity Chemicals , Materials
+4 , Human Resource & Employment Services , Industrials
+4 , Water Utilities , Utilities
+80 , Health Care Equipment , Health Care
+56 , Industrial Machinery , Industrials
+52 , Semiconductors , Information Technology
+52 , Electric Utilities , Utilities
+48 , Packaged Foods & Meats , Consumer Staples
+48 , Application Software , Information Technology
+44 , Oil & Gas Exploration & Production , Energy
+44 , Data Processing & Outsourced Services , Information Technology
+44 , Aerospace & Defense , Industrials
+44 , Regional Banks , Financials
+44 , Multi-Utilities , Utilities
+36 , Specialized REITs , Real Estate
+36 , Pharmaceuticals , Health Care
+36 , Apparel, Accessories & Luxury Goods , Consumer Discretionary
+32 , Property & Casualty Insurance , Financials
+32 , Financial Exchanges & Data , Financials
+32 , Specialty Chemicals , Materials
+32 , Asset Management & Custody Banks , Financials
+32 , Building Products , Industrials
+28 , Technology Hardware, Storage & Peripherals , Information Technology
+28 , Biotechnology , Health Care
+24 , IT Consulting & Other Services , Information Technology
+24 , Life & Health Insurance , Financials
+24 , Diversified Banks , Financials
+24 , Health Care Distributors , Health Care
+24 , Restaurants , Consumer Discretionary
+24 , Specialty Stores , Consumer Discretionary
+24 , Paper Packaging , Materials
+24 , Residential REITs , Real Estate
+24 , Movies & Entertainment , Communication Services
+20 , Internet & Direct Marketing Retail , Consumer Discretionary
+20 , Hotels, Resorts & Cruise Lines , Consumer Discretionary
+20 , Managed Health Care , Health Care
+20 , Airlines , Industrials
+20 , Investment Banking & Brokerage , Financials
+20 , Communications Equipment , Information Technology
+20 , Life Sciences Tools & Services , Health Care
+20 , Retail REITs , Real Estate
+20 , Oil & Gas Equipment & Services , Energy
+16 , Oil & Gas Refining & Marketing , Energy
+16 , Insurance Brokers , Financials
+16 , Office REITs , Real Estate
+16 , Air Freight & Logistics , Industrials
+16 , Consumer Finance , Financials
+16 , Research & Consulting Services , Industrials
+16 , Homebuilding , Consumer Discretionary
+16 , Electrical Components & Equipment , Industrials
+16 , Industrial Conglomerates , Industrials
+16 , Household Products , Consumer Staples
+16 , Health Care Supplies , Health Care
+16 , Railroads , Industrials
+16 , Semiconductor Equipment , Information Technology
+16 , Fertilizers & Agricultural Chemicals , Materials
+16 , Interactive Media & Services , Communication Services
+16 , Apparel Retail , Consumer Discretionary
+12 , Construction Machinery & Heavy Trucks , Industrials
+12 , Health Care Facilities , Health Care
+12 , Health Care Services , Health Care
+12 , Environmental & Facilities Services , Industrials
+12 , Casinos & Gaming , Consumer Discretionary
+12 , Oil & Gas Storage & Transportation , Energy
+12 , Integrated Oil & Gas , Energy
+12 , Soft Drinks , Consumer Staples
+12 , Electronic Equipment & Instruments , Information Technology
+12 , Cable & Satellite , Communication Services
+12 , Internet Services & Infrastructure , Information Technology
+12 , Systems Software , Information Technology
+12 , Multi-line Insurance , Financials
+12 , General Merchandise Stores , Consumer Discretionary
+12 , Health Care REITs , Real Estate
+12 , Interactive Home Entertainment , Communication Services
+8 , Trucking , Industrials
+8 , Independent Power Producers & Energy Traders , Utilities
+8 , Construction Materials , Materials
+8 , Industrial REITs , Real Estate
+8 , Industrial Gases , Materials
+8 , Electronic Manufacturing Services , Information Technology
+8 , Electronic Components , Information Technology
+8 , Advertising , Communication Services
+8 , Diversified Support Services , Industrials
+8 , Auto Parts & Equipment , Consumer Discretionary
+8 , Home Improvement Retail , Consumer Discretionary
+8 , Home Furnishings , Consumer Discretionary
+8 , Distillers & Vintners , Consumer Staples
+8 , Personal Products , Consumer Staples
+8 , Tobacco , Consumer Staples
+8 , Automobile Manufacturers , Consumer Discretionary
+8 , Hypermarkets & Super Centers , Consumer Staples
+8 , Publishing , Communication Services
+8 , Integrated Telecommunication Services , Communication Services
+8 , Broadcasting , Communication Services
+8 , Construction & Engineering , Industrials
+4 , Wireless Telecommunication Services , Communication Services
+4 , Gas Utilities , Utilities
+4 , Household Appliances , Consumer Discretionary
+4 , Real Estate Services , Real Estate
+4 , Automotive Retail , Consumer Discretionary
+4 , Computer & Electronics Retail , Consumer Discretionary
+4 , Hotel & Resort REITs , Real Estate
+4 , Consumer Electronics , Consumer Discretionary
+4 , Steel , Materials
+4 , Distributors , Consumer Discretionary
+4 , Metal & Glass Containers , Materials
+4 , Gold , Materials
+4 , Housewares & Specialties , Consumer Discretionary
+4 , Diversified Chemicals , Materials
+4 , Food Retail , Consumer Staples
+4 , Agricultural & Farm Machinery , Industrials
+4 , Health Care Technology , Health Care
+4 , Alternative Carriers , Communication Services
+4 , Trading Companies & Distributors , Industrials
+4 , Thrifts & Mortgage Finance , Financials
+4 , Reinsurance , Financials
+4 , Multi-Sector Holdings , Financials
+4 , Food Distributors , Consumer Staples
+4 , Copper , Materials
+4 , Drug Retail , Consumer Staples
+4 , Brewers , Consumer Staples
+4 , Agricultural Products , Consumer Staples
+4 , Technology Distributors , Information Technology
+4 , Leisure Products , Consumer Discretionary
+4 , Commodity Chemicals , Materials
+4 , Human Resource & Employment Services , Industrials
+4 , Water Utilities , Utilities
