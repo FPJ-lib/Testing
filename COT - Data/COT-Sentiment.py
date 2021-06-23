@@ -29,7 +29,7 @@ def get_COT(url, file_name):
 
 
 # Downloading and extracting COT files
-get_COT('https://www.cftc.gov/files/dea/history/fut_fin_xls_2021.zip', '2021.zip')
+get_COT('https://www.cftc.gov/files/dea/history/fut_fin_xls_2020.zip', '2020.zip')
 
 
 
