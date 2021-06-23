@@ -2,9 +2,18 @@
 
 #-m pip install --upgrade pip
 '''
-Error with Excel paths
+TO DO:
 
-Error -XRDL 
+-Get data for all years!
+-Download All Data
+
+-concatenate the data:
+---Save data by asset fo a File. 
+
+
+-Download the Prices of the assets - to check the correlation
+
+
 
 '''
 
