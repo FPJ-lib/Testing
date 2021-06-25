@@ -14,12 +14,14 @@ TO-DO:
 
 
 # Objective: Create a Correlation Matrix
-number_of_assets = 4
+number_of_assets = 6
 correlation_per_asset = np.matrix(np.random.rand(1, number_of_assets)*2 -1 ) 
- 
+correlation_per_asset = correlation_per_asset.round(3)
+
 
 #Check the Correlation Matrix
 print(pd.DataFrame(correlation_per_asset))
+print()
 
 def get_correlation_matrix(correl=correlation_per_asset, size_matrix = number_of_assets):
   matrix_list =[]
@@ -54,7 +56,7 @@ print('\n\n')
 ##################################################################################
 
 # INPUTS
-number_obs = 1000
+number_obs = 20
 
 X = np.matrix(np.random.standard_normal((number_of_assets, number_obs)))  
 C = Correl_Matrix
@@ -75,6 +77,7 @@ diference = C_obs - C
 print('\nDiference')
 print(diference)
 
+#print('Sum differences:\t', diference.sum()-number_of_assets)
 
 '''
 plt.plot(Y.cumsum())
